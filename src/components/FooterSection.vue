@@ -1,8 +1,4 @@
 <template>
-import React from 'react'
-
-function Footer() {
-  return (
     <footer id="footer">
         <h2 class="ir_so">푸터 영역</h2>
         <div class="footer__inner container">
@@ -59,10 +55,6 @@ function Footer() {
             </address>
         </div>
     </footer>
-  )
-}
-
-export default Footer
 </template>
 
 <style scoped>
